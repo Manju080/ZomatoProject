@@ -1,0 +1,9 @@
+{
+	"name": "zomato-df",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec5c0ece-1346-42b5-893e-dabf046f12fd",
+		"tenantId": "66088b98-0526-4e71-97b2-a022648f333c"
+	}
+}
