@@ -1,0 +1,12 @@
+{
+	"name": "ZomatodataHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Manju080/ZomatoProject/refs/heads/main/dataset/Zomatodata.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
